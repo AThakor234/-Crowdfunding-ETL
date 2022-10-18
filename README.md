@@ -16,9 +16,13 @@ Performing SQL queries to generate reports for stakeholders
 ## Resources:
 
 Programming languages : Python, SQL
+
 Libraries : Pandas
+
 Web application : Jupyter notebook
+
 Database : Postgres
+
 Tool : pgAdmin
 
 
